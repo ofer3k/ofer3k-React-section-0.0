@@ -14,17 +14,19 @@ c.	SPA (single page app) Benefits.
 
 a.	What are components?
 
-b.	npx create-react-app hello-react
+b. npx create-react-app hello-react
 
-c.	Analyzing a standard React project
+c. Analyzing a standard React project
 
-d.	JSX + How react works
+d. JSX + How react works
 
-e.	Building a first custom Component
+e. Building a first custom Component
 
-f.	Passing data via "props”
+f. Class component and function component
 
-g.	Splitting components into multiple Components
+g. Passing data via "props”
+
+h. Splitting components into multiple Components
 
 * It is very important not to talk about hooks yet. Introduce only the general idea and the ability of splitting the work into small parts – components
 
